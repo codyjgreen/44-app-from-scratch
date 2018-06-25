@@ -15,6 +15,7 @@ export default class SpotItPage extends Component {
 
 
 
+
   render = () => {
     return <Fragment>
 
